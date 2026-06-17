@@ -97,17 +97,24 @@ Combines gamification principles with biblical education to create meaningful le
 
 ## Screenshots
 
-### Quiz Gameplay
+<table>
+<tr>
+<td align="center">
+<b>Quiz Gameplay</b><br>
+<img src="screenshots/quiz-mode.png" width="250">
+</td>
 
-![Quiz Gameplay](screenshots/quiz-mode.png)
+<td align="center">
+<b>Main Menu</b><br>
+<img src="screenshots/main-menu.png" width="250">
+</td>
 
-### Main Menu
-
-![Main Menu](screenshots/main-menu.png)
-
-### Adventure Map
-
-![Adventure Map](screenshots/adventure-levels.png)
+<td align="center">
+<b>Adventure Map</b><br>
+<img src="screenshots/adventure-levels.png" width="250">
+</td>
+</tr>
+</table>
 
 
 ---
