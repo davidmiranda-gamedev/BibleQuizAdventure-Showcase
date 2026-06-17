@@ -1,63 +1,220 @@
 # 📖 Bible Quiz Adventure
 
-A Christian educational quiz game developed in Unity that transforms Bible learning into an engaging interactive adventure.
+![Unity](https://img.shields.io/badge/Engine-Unity-black?logo=unity)
+![C#](https://img.shields.io/badge/Language-C%23-purple)
+![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20Windows-green)
+![Status](https://img.shields.io/badge/Status-Completed-success)
 
-Players journey through Bible stories, answer challenging questions, unlock new levels, and test their knowledge through both Adventure Mode and Endless Mode.
+> An interactive Christian educational game that transforms Bible learning into an engaging adventure through level progression, exploration, and challenge-based gameplay.
 
-![Bible Quiz Adventure Banner](screenshots/main-menu.png)
+---
 
-## ✨ Features
+## Overview
+
+Bible Quiz Adventure is a Christian educational quiz game developed using Unity and C# that encourages players to strengthen their knowledge of Scripture through interactive gameplay and progression-based learning.
+
+Unlike traditional quiz applications, Bible Quiz Adventure combines level progression, achievement systems, and timed challenges to create a rewarding educational experience for players of all ages.
+
+Players journey through carefully designed stages inspired by stories, teachings, and events found throughout the Bible while unlocking new levels and testing their biblical understanding.
+
+The project was designed to make Bible learning more engaging, accessible, and enjoyable through gamification and interactive design principles.
+
+---
+
+## Downloads
+
+### Windows Version
+
+[Download for Windows](YOUR_WINDOWS_DOWNLOAD_LINK)
+
+### Android Version
+
+[Download for Android](YOUR_ANDROID_DOWNLOAD_LINK)
+
+---
+
+## Project Information
+
+| Category | Details |
+|-----------|---------|
+| Project Type | Christian Educational Quiz Game |
+| Platforms | Android, Windows |
+| Engine | Unity |
+| Programming Language | C# |
+| Game Modes | Adventure Mode, Endless Mode |
+| Target Audience | Bible Learners of All Ages |
+| Development Type | Solo Developer Project |
+| Deployment Status | Successfully Deployed |
+
+---
+
+## Core Gameplay
 
 ### Adventure Mode
-- Story-based progression system
-- Level unlocking mechanics
-- Bible-focused learning experience
-- Structured difficulty progression
+
+Progress through a structured journey of Bible-themed levels featuring carefully curated questions based on biblical stories, characters, teachings, and events.
+
+Players must complete stages, earn stars, and unlock new levels as they continue their adventure through Scripture.
 
 ### Endless Mode
-- 60-second challenge mode
-- Randomized Bible questions
-- High-score competition
-- Fast-paced gameplay
 
-### Progression System
-- Star-based rewards
-- Level completion tracking
-- Persistent player progress
+Challenge yourself against the clock and answer as many Bible questions as possible before time runs out.
 
-### Mobile-Friendly UI
-- Designed for Android devices
-- Portrait orientation gameplay
-- Intuitive navigation system
+Designed for replayability, Endless Mode encourages players to improve their knowledge while competing against their personal best scores.
 
-## 📸 Screenshots
+### Learn Through Play
 
+Questions are designed to reinforce biblical understanding while maintaining an engaging gameplay loop that encourages continued learning and progression.
 
-## 🛠 Technologies Used
+---
 
-- Unity
+## Key Features
+
+### Level-Based Progression
+
+Unlock new stages as you complete Bible-themed challenges and advance through the adventure.
+
+### Structured Bible Learning
+
+Questions are organized around important biblical stories, teachings, and historical events.
+
+### Endless Challenge Mode
+
+Fast-paced gameplay that rewards quick thinking and biblical knowledge.
+
+### Star Reward System
+
+Track your performance and progress through a rewarding achievement system.
+
+### Mobile-Friendly Interface
+
+Designed specifically for Android devices with intuitive portrait-oriented gameplay.
+
+### Educational Game Design
+
+Combines gamification principles with biblical education to create meaningful learning experiences.
+
+---
+
+## Screenshots
+
+### Main Menu
+
+![Main Menu](screenshots/main-menu.png)
+
+### Adventure Map
+
+![Adventure Map](screenshots/adventure-map.png)
+
+### Level Overview
+
+![Level Overview](screenshots/level-overview.png)
+
+### Quiz Gameplay
+
+![Quiz Gameplay](screenshots/quiz-gameplay.png)
+
+### Endless Mode
+
+![Endless Mode](screenshots/endless-mode.png)
+
+### Results Screen
+
+![Results Screen](screenshots/results-screen.png)
+
+---
+
+## Project Highlights
+
+- Developed as a complete Bible-learning game experience
+- Features both Adventure Mode and Endless Mode
+- Designed for Android and Windows platforms
+- Implements scalable level progression architecture
+- Encourages biblical learning through interactive gameplay
+- Combines education, gamification, and user engagement principles
+- Built as a standalone educational game product
+
+---
+
+## Gameplay Demo
+
+Watch a short gameplay demonstration showcasing Adventure Mode, level progression, and Endless Mode gameplay.
+
+🎥 Bible Quiz Adventure Gameplay Demo
+
+[Watch Gameplay Demo](YOUR_VIDEO_LINK)
+
+---
+
+## Technologies Used
+
+- Unity Engine
 - C#
-- TextMesh Pro
+- TextMeshPro
 - Unity UI System
-- JSON Data Management
+- PlayerPrefs Save System
+- Mobile Game Development
+- Android Build Pipeline
+- Windows Build Pipeline
 - Git & GitHub
 
-## 🚀 Project Highlights
+---
 
-- Developed as a complete educational game experience
-- Designed for Android mobile devices
-- Implements scalable level progression architecture
-- Supports both structured and endless gameplay modes
-- Focuses on interactive Bible learning through gamification
+## My Contributions
 
-## 👨‍💻 Developer
+As the sole developer of Bible Quiz Adventure, I was responsible for:
 
-David Nathaniel Miranda
+- Game Design
+- UI/UX Design
+- Gameplay Programming
+- Quiz System Development
+- Level Progression System
+- Endless Mode Development
+- Save System Implementation
+- Android and Windows Deployment
+- Testing and Optimization
 
-Software Developer & Unity Game Developer
+---
 
-LinkedIn:
-https://linkedin.com/in/davidnmiranda
+## Future Improvements
 
-GitHub:
-https://github.com/davidmiranda-gamedev
+- Additional Bible Stories and Events
+- Expanded Question Database
+- Achievement System
+- Daily Challenges
+- Online Leaderboards
+- Cloud Save Support
+- Additional Educational Game Modes
+
+---
+
+## Technical Challenges
+
+During development, several gameplay systems were designed and implemented:
+
+- Dynamic question management system
+- Adventure mode progression architecture
+- Endless mode timer framework
+- Persistent player progression
+- Star-based completion system
+- Mobile-responsive UI implementation
+- Data-driven quiz structure
+- Cross-platform deployment pipeline
+
+---
+
+## Developer
+
+**David Nathaniel Miranda**
+
+Software Developer | Unity Game Developer | Web Developer
+
+GitHub:  
+[David Miranda GitHub](https://github.com/davidmiranda-gamedev)
+
+LinkedIn:  
+[David Miranda LinkedIn](https://www.linkedin.com/in/david-nathaniel-miranda-1432b9274/)
+
+---
+
+⭐ If you enjoyed this project, feel free to explore my other repositories and educational game projects.
