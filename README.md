@@ -3,7 +3,6 @@
 ![Unity](https://img.shields.io/badge/Engine-Unity-black?logo=unity)
 ![C#](https://img.shields.io/badge/Language-C%23-purple)
 ![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20Windows-green)
-![Status](https://img.shields.io/badge/Status-Completed-success)
 
 > An interactive Christian educational game that transforms Bible learning into an engaging adventure through level progression, exploration, and challenge-based gameplay.
 
@@ -98,29 +97,18 @@ Combines gamification principles with biblical education to create meaningful le
 
 ## Screenshots
 
+### Quiz Gameplay
+
+![Quiz Gameplay](screenshots/quiz-mode.png)
+
 ### Main Menu
 
 ![Main Menu](screenshots/main-menu.png)
 
 ### Adventure Map
 
-![Adventure Map](screenshots/adventure-map.png)
+![Adventure Map](screenshots/adventure-levels.png)
 
-### Level Overview
-
-![Level Overview](screenshots/level-overview.png)
-
-### Quiz Gameplay
-
-![Quiz Gameplay](screenshots/quiz-gameplay.png)
-
-### Endless Mode
-
-![Endless Mode](screenshots/endless-mode.png)
-
-### Results Screen
-
-![Results Screen](screenshots/results-screen.png)
 
 ---
 
@@ -213,7 +201,7 @@ GitHub:
 [David Miranda GitHub](https://github.com/davidmiranda-gamedev)
 
 LinkedIn:  
-[David Miranda LinkedIn](https://www.linkedin.com/in/david-nathaniel-miranda-1432b9274/)
+[David Miranda LinkedIn](https://www.linkedin.com/in/davidnmiranda/)
 
 ---
 
