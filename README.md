@@ -47,6 +47,23 @@ The project was designed to make Bible learning more engaging, accessible, and e
 
 ---
 
+## Architecture
+
+Bible Quiz Adventure was designed using a data-driven architecture to support scalable content creation and future expansion.
+
+Core systems include:
+
+- Quiz Manager
+- Adventure Progression Manager
+- Save System
+- Question Database
+- UI Management System
+- Endless Mode Framework
+
+The game uses a reusable Quiz Scene where level content is dynamically loaded rather than relying on scene-per-level design.
+
+---
+
 ## Core Gameplay
 
 ### Adventure Mode
