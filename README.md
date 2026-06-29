@@ -72,21 +72,42 @@ Bible Quiz Adventure combines educational gameplay with scalable Unity systems t
 
 ---
 
-## Architecture
+🏗 Architecture
 
-Bible Quiz Adventure was designed using a data-driven architecture to support scalable content creation and future expansion.
+Bible Quiz Adventure was designed using a modular, manager-based architecture to promote scalability, maintainability, and code reusability. Gameplay systems are separated into dedicated managers with clear responsibilities, making the project easier to extend as additional Bible stories, game modes, and features are introduced.
 
-Core systems include:
+Instead of creating separate scenes for every level, the game uses a single reusable Quiz Scene that dynamically loads quiz content from ScriptableObjects. This data-driven approach minimizes duplicated code and allows new levels to be created without modifying gameplay logic.
 
-- Quiz Manager
-- Adventure Progression Manager
-- Save System
-- Question Database
-- UI Management System
-- Endless Mode Framework
+Architecture Highlights
+🧩 Modular manager-based design
+📦 ScriptableObject-driven quiz content
+🔄 Reusable Quiz Scene for every Adventure level
+💾 Persistent player progression using PlayerPrefs
+🎨 Reusable UI components shared across game modes
+🎵 Centralized audio management
+🌐 Cross-platform deployment for Android and WebGL
+Core Systems
+System	Responsibility
+AdventureManager	Handles level selection, navigation, and game flow within Adventure Mode.
+QuizManager	Controls quiz gameplay, question loading, answer validation, scoring, and progression.
+ProgressionManager	Saves and loads unlocked levels, earned stars, and player progression.
+AudioManager	Manages background music, sound effects, and user audio settings across all scenes.
+SceneTransitionManager	Provides reusable fade transitions between scenes for a polished user experience.
+UIManager	Coordinates shared UI elements, menus, and interface interactions.
+PanelAnimator	Handles panel animations for smoother UI transitions.
+ConfirmationPanelManager	Displays reusable confirmation dialogs throughout the application.
+Design Principles
 
-The game uses a reusable Quiz Scene where level content is dynamically loaded rather than relying on scene-per-level design.
+During development, the project followed several software engineering principles:
 
+Separation of responsibilities between gameplay systems
+Data-driven content using ScriptableObjects
+Reusable UI components to reduce duplication
+Centralized managers for shared functionality
+Configurable gameplay values through the Unity Inspector
+Scalable architecture prepared for future Bible story expansions
+
+This structure allows additional Bible books, quiz levels, and gameplay features to be integrated with minimal changes to the existing codebase.
 ---
 
 ## Core Gameplay
