@@ -40,18 +40,6 @@ The project was designed with a modular manager-based architecture, reusable UI 
 
 ---
 
-## Downloads
-
-### Windows Version
-
-[Download for Windows](YOUR_WINDOWS_DOWNLOAD_LINK)
-
-### Android Version
-
-[Download for Android](YOUR_ANDROID_DOWNLOAD_LINK)
-
----
-
 ## Project Information
 
 | Category | Details |
