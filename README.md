@@ -20,9 +20,21 @@
 
 ---
 
+🔗 Quick Links
+Resource	Link
+🎮 Play in Browser	https://davidmiranda.itch.io/bible-quiz-adventure
+📱 Android APK	https://drive.google.com/drive/folders/1cCemW7HTBfC2xpgbDTrmvBrgd2DKxlo3?usp=sharing
+🎥 Gameplay Demo	https://drive.google.com/file/d/1gGnLD8D_DEmiRa6ylt42AY00QmhGN1Ua/view?usp=sharing
+
+---
+
 ## Overview
 
-Bible Quiz Adventure is a cross-platform Christian educational quiz game built with Unity 6 and C#, featuring story-driven progression, persistent save systems, and a scalable manager-based architecture. The project demonstrates modern Unity development practices while making Bible learning engaging and accessible.
+Bible Quiz Adventure is a cross-platform Christian educational quiz game developed using Unity 6 and C#. It combines story-driven progression, interactive gameplay, and educational content to make learning Scripture engaging for players of all ages.
+
+Rather than functioning as a traditional quiz application, the game incorporates modern game design principles—including level progression, persistent save systems, star-based achievements, and timed challenges—to create a rewarding learning experience.
+
+The project was designed with a modular manager-based architecture, reusable UI systems, and data-driven content using ScriptableObjects, allowing future Bible stories and levels to be added with minimal code changes.
 
 ---
 
