@@ -149,9 +149,7 @@ As the sole developer of Bible Quiz Adventure, I was responsible for:
 - Gameplay Programming
 - Quiz System Development
 - Level Progression System
-- Endless Mode Development
 - Save System Implementation
-- Android and Windows Deployment
 - Testing and Optimization
 - Time Challenge Development
 - Android and WebGL Deployment
