@@ -125,16 +125,6 @@ Instead of creating separate scenes for every level, the game uses a single reus
 
 ---
 
-## Gameplay Demo
-
-Watch a short gameplay demonstration showcasing Adventure Mode, level progression, and Endless Mode gameplay.
-
-🎥 Bible Quiz Adventure Gameplay Demo
-
-[Watch Gameplay Demo](YOUR_VIDEO_LINK)
-
----
-
 ## Technologies Used
 
 - Unity Engine
