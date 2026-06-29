@@ -4,19 +4,25 @@
 ![C#](https://img.shields.io/badge/Language-C%23-purple)
 ![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20Windows-green)
 
+## Status
+
+✅ Version 1.0 Released
+
+📱 Android
+
+🌐 WebGL
+
+🎮 Portfolio Project
+
+🛠 Actively Maintained
+
 > An interactive Christian educational game that transforms Bible learning into an engaging adventure through level progression, exploration, and challenge-based gameplay.
 
 ---
 
 ## Overview
 
-Bible Quiz Adventure is a Christian educational quiz game developed using Unity and C# that encourages players to strengthen their knowledge of Scripture through interactive gameplay and progression-based learning.
-
-Unlike traditional quiz applications, Bible Quiz Adventure combines level progression, achievement systems, and timed challenges to create a rewarding educational experience for players of all ages.
-
-Players journey through carefully designed stages inspired by stories, teachings, and events found throughout the Bible while unlocking new levels and testing their biblical understanding.
-
-The project was designed to make Bible learning more engaging, accessible, and enjoyable through gamification and interactive design principles.
+Bible Quiz Adventure is a cross-platform Christian educational quiz game built with Unity 6 and C#, featuring story-driven progression, persistent save systems, and a scalable manager-based architecture. The project demonstrates modern Unity development practices while making Bible learning engaging and accessible.
 
 ---
 
