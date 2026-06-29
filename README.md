@@ -2,7 +2,7 @@
 
 ![Unity](https://img.shields.io/badge/Engine-Unity-black?logo=unity)
 ![C#](https://img.shields.io/badge/Language-C%23-purple)
-![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20Windows-green)
+![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20WebGL-green)
 
 ## Status
 
@@ -72,89 +72,33 @@ Bible Quiz Adventure combines educational gameplay with scalable Unity systems t
 
 ---
 
-🏗 Architecture
+## 🏗 Architecture
 
 Bible Quiz Adventure was designed using a modular, manager-based architecture to promote scalability, maintainability, and code reusability. Gameplay systems are separated into dedicated managers with clear responsibilities, making the project easier to extend as additional Bible stories, game modes, and features are introduced.
 
 Instead of creating separate scenes for every level, the game uses a single reusable Quiz Scene that dynamically loads quiz content from ScriptableObjects. This data-driven approach minimizes duplicated code and allows new levels to be created without modifying gameplay logic.
 
-Architecture Highlights
-🧩 Modular manager-based design
-📦 ScriptableObject-driven quiz content
-🔄 Reusable Quiz Scene for every Adventure level
-💾 Persistent player progression using PlayerPrefs
-🎨 Reusable UI components shared across game modes
-🎵 Centralized audio management
-🌐 Cross-platform deployment for Android and WebGL
-Core Systems
-System	Responsibility
-AdventureManager	Handles level selection, navigation, and game flow within Adventure Mode.
-QuizManager	Controls quiz gameplay, question loading, answer validation, scoring, and progression.
-ProgressionManager	Saves and loads unlocked levels, earned stars, and player progression.
-AudioManager	Manages background music, sound effects, and user audio settings across all scenes.
-SceneTransitionManager	Provides reusable fade transitions between scenes for a polished user experience.
-UIManager	Coordinates shared UI elements, menus, and interface interactions.
-PanelAnimator	Handles panel animations for smoother UI transitions.
-ConfirmationPanelManager	Displays reusable confirmation dialogs throughout the application.
-Design Principles
+### Core Systems
 
-During development, the project followed several software engineering principles:
+| System | Responsibility |
+|---------|----------------|
+| **AdventureManager** | Handles level selection and Adventure Mode flow. |
+| **QuizManager** | Controls quiz gameplay, scoring, answer validation, and progression. |
+| **ProgressionManager** | Saves unlocked levels, stars, and player progress. |
+| **AudioManager** | Manages music, sound effects, and audio settings. |
+| **SceneTransitionManager** | Handles reusable scene fade transitions. |
+| **UIManager** | Coordinates shared UI interactions. |
+| **PanelAnimator** | Plays UI panel animations. |
+| **ConfirmationPanelManager** | Displays reusable confirmation dialogs. |
 
-Separation of responsibilities between gameplay systems
-Data-driven content using ScriptableObjects
-Reusable UI components to reduce duplication
-Centralized managers for shared functionality
-Configurable gameplay values through the Unity Inspector
-Scalable architecture prepared for future Bible story expansions
+### Design Principles
 
-This structure allows additional Bible books, quiz levels, and gameplay features to be integrated with minimal changes to the existing codebase.
----
-
-## Core Gameplay
-
-### Adventure Mode
-
-Progress through a structured journey of Bible-themed levels featuring carefully curated questions based on biblical stories, characters, teachings, and events.
-
-Players must complete stages, earn stars, and unlock new levels as they continue their adventure through Scripture.
-
-### Endless Mode
-
-Challenge yourself against the clock and answer as many Bible questions as possible before time runs out.
-
-Designed for replayability, Endless Mode encourages players to improve their knowledge while competing against their personal best scores.
-
-### Learn Through Play
-
-Questions are designed to reinforce biblical understanding while maintaining an engaging gameplay loop that encourages continued learning and progression.
-
----
-
-## Key Features
-
-### Level-Based Progression
-
-Unlock new stages as you complete Bible-themed challenges and advance through the adventure.
-
-### Structured Bible Learning
-
-Questions are organized around important biblical stories, teachings, and historical events.
-
-### Endless Challenge Mode
-
-Fast-paced gameplay that rewards quick thinking and biblical knowledge.
-
-### Star Reward System
-
-Track your performance and progress through a rewarding achievement system.
-
-### Mobile-Friendly Interface
-
-Designed specifically for Android devices with intuitive portrait-oriented gameplay.
-
-### Educational Game Design
-
-Combines gamification principles with biblical education to create meaningful learning experiences.
+- Modular manager-based architecture
+- Separation of responsibilities
+- ScriptableObject-driven content
+- Reusable UI systems
+- Configurable gameplay values through the Unity Inspector
+- Scalable architecture for future Bible story expansions
 
 ---
 
@@ -178,19 +122,6 @@ Combines gamification principles with biblical education to create meaningful le
 </td>
 </tr>
 </table>
-
-
----
-
-## Project Highlights
-
-- Developed as a complete Bible-learning game experience
-- Features both Adventure Mode and Endless Mode
-- Designed for Android and Windows platforms
-- Implements scalable level progression architecture
-- Encourages biblical learning through interactive gameplay
-- Combines education, gamification, and user engagement principles
-- Built as a standalone educational game product
 
 ---
 
@@ -234,30 +165,38 @@ As the sole developer of Bible Quiz Adventure, I was responsible for:
 
 ---
 
-## Future Improvements
+## 🗺️ Roadmap
 
-- Additional Bible Stories and Events
-- Expanded Question Database
-- Achievement System
-- Daily Challenges
-- Online Leaderboards
-- Cloud Save Support
-- Additional Educational Game Modes
+### Version 1.1
+
+- 🔥 Time Challenge streak bonus
+- ⭐ Total star counter
+- 💬 Bible Guide / Chat feature
+- 📖 Exodus storyline
+
+### Future Releases
+
+- Additional Bible books
+- Expanded question database
+- Achievement system
+- Daily challenges
+- Cloud save support
 
 ---
 
-## Technical Challenges
+## 📖 What I Learned
 
-During development, several gameplay systems were designed and implemented:
+Developing Bible Quiz Adventure strengthened my experience in:
 
-- Dynamic question management system
-- Adventure mode progression architecture
-- Endless mode timer framework
-- Persistent player progression
-- Star-based completion system
-- Mobile-responsive UI implementation
-- Data-driven quiz structure
-- Cross-platform deployment pipeline
+- Unity 6 game development
+- C# application architecture
+- Data-driven development using ScriptableObjects
+- Persistent save and progression systems
+- Mobile-first UI/UX design
+- Cross-platform deployment for Android and WebGL
+- Version control using Git and GitHub
+
+This project reinforced the importance of writing modular, maintainable, and scalable code while delivering a polished user experience.
 
 ---
 
