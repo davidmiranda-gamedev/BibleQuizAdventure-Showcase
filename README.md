@@ -40,18 +40,35 @@ The project was designed with a modular manager-based architecture, reusable UI 
 
 ---
 
-## Project Information
+---
 
-| Category | Details |
-|-----------|---------|
-| Project Type | Christian Educational Quiz Game |
-| Platforms | Android, Windows |
-| Engine | Unity |
-| Programming Language | C# |
-| Game Modes | Adventure Mode, Endless Mode |
-| Target Audience | Bible Learners of All Ages |
-| Development Type | Solo Developer Project |
-| Deployment Status | Successfully Deployed |
+# ✨ Features
+
+Bible Quiz Adventure combines educational gameplay with scalable Unity systems to deliver an engaging Bible learning experience.
+
+## 🎮 Gameplay Features
+
+* 📖 **Adventure Mode** — Progress through 20 handcrafted Bible story levels inspired by the Book of Genesis.
+* ⏱️ **Time Challenge Mode** — Answer as many questions as possible within 60 seconds while competing against your personal best score.
+* ⭐ **Star Rating System** — Earn up to three stars on each level based on your performance.
+* 🔓 **Level Progression** — Unlock new levels as you complete previous challenges.
+* 💾 **Persistent Save System** — Player progression, unlocked levels, earned stars, and high scores are automatically saved.
+* 🎲 **Randomized Quiz Experience** — Time Challenge randomizes both questions and answer choices for high replayability.
+* 📚 **Bible-Based Learning** — Questions are based on the English Standard Version (ESV) and designed to reinforce biblical knowledge.
+
+---
+
+## 🛠 Technical Features
+
+* 🏗 **Manager-Based Architecture** for modular and maintainable gameplay systems.
+* 📦 **ScriptableObject-Driven Quiz Database** for reusable and scalable level content.
+* 🎨 **Reusable UI Framework** with shared interfaces across multiple game modes.
+* 🔄 **Scene Transition System** with smooth fade animations between scenes.
+* 🔊 **Centralized Audio Management** supporting music, sound effects, and persistent settings.
+* 💾 **PlayerPrefs Persistence** for saving progression, stars, settings, and high scores.
+* 📱 **Mobile-First UI Design** optimized for portrait orientation on Android devices.
+* 🌐 **Cross-Platform Deployment** supporting both Android and WebGL builds.
+
 
 ---
 
