@@ -20,7 +20,7 @@
 
 ---
 
-🔗 Quick Links Resource	Link
+🔗 Quick Links
 
 🎮 Play in Browser	https://davidmiranda.itch.io/bible-quiz-adventure
 
