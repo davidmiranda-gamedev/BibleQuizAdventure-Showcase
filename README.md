@@ -22,11 +22,11 @@
 
 🔗 Quick Links
 
-🎮 (Play in Browser)[https://davidmiranda.itch.io/bible-quiz-adventure]
+🎮 [Play in Browser](https://davidmiranda.itch.io/bible-quiz-adventure)
 
-📱 (Android APK)	[https://drive.google.com/drive/folders/1cCemW7HTBfC2xpgbDTrmvBrgd2DKxlo3?usp=sharing]
+📱 [Android APK](https://drive.google.com/drive/folders/1cCemW7HTBfC2xpgbDTrmvBrgd2DKxlo3?usp=sharing)
 
-🎥 (Gameplay Demo)[https://drive.google.com/file/d/1gGnLD8D_DEmiRa6ylt42AY00QmhGN1Ua/view?usp=sharing]
+🎥 [Gameplay Demo](https://drive.google.com/file/d/1gGnLD8D_DEmiRa6ylt42AY00QmhGN1Ua/view?usp=sharing)
 
 ---
 
