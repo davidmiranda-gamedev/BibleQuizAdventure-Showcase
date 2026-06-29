@@ -125,17 +125,18 @@ Instead of creating separate scenes for every level, the game uses a single reus
 
 ---
 
-## Technologies Used
+## 🛠 Technologies Used
 
-| **Technology** |	Purpose |
-| **Unity 6	Game** | Engine |
-| **C#	Gameplay** | Programming |
-| **TextMeshPro** |	User Interface Text |
-| **Unity UI Toolkit** | UI System	User Interface |
-| **PlayerPrefs** |	Save Data Persistence |
-| **Git & GitHub** |	Version Control |
-| **Android** |	Mobile Deployment |
-| **WebGL** |	Browser Deployment |
+| Technology          | Purpose               |
+| ------------------- | --------------------- |
+| **Unity 6**         | Game Engine           |
+| **C#**              | Gameplay Programming  |
+| **TextMeshPro**     | User Interface Text   |
+| **Unity UI System** | User Interface        |
+| **PlayerPrefs**     | Save Data Persistence |
+| **Git & GitHub**    | Version Control       |
+| **Android**         | Mobile Deployment     |
+| **WebGL**           | Browser Deployment    |
 
 ---
 
