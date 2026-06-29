@@ -30,15 +30,13 @@
 
 ---
 
-## Overview
+## 📚 Overview
 
 Bible Quiz Adventure is a cross-platform Christian educational quiz game developed using Unity 6 and C#. It combines story-driven progression, interactive gameplay, and educational content to make learning Scripture engaging for players of all ages.
 
 Rather than functioning as a traditional quiz application, the game incorporates modern game design principles—including level progression, persistent save systems, star-based achievements, and timed challenges—to create a rewarding learning experience.
 
 The project was designed with a modular manager-based architecture, reusable UI systems, and data-driven content using ScriptableObjects, allowing future Bible stories and levels to be added with minimal code changes.
-
----
 
 ---
 
@@ -102,7 +100,9 @@ Instead of creating separate scenes for every level, the game uses a single reus
 
 ---
 
-## Screenshots
+## 📸 Screenshots
+
+Explore key moments from Bible Quiz Adventure, showcasing the user interface, adventure progression, and quiz gameplay.
 
 <table>
 <tr>
@@ -153,6 +153,8 @@ As the sole developer of Bible Quiz Adventure, I was responsible for:
 - Save System Implementation
 - Android and Windows Deployment
 - Testing and Optimization
+- Time Challenge Development
+- Android and WebGL Deployment
 
 ---
 
@@ -191,7 +193,7 @@ This project reinforced the importance of writing modular, maintainable, and sca
 
 ---
 
-## Developer
+## 👨‍💻 Developer
 
 **David Nathaniel Miranda**
 
