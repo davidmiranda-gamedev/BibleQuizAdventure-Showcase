@@ -20,8 +20,8 @@
 
 ---
 
-🔗 Quick Links
-Resource	Link
+🔗 Quick Links Resource	Link
+
 🎮 Play in Browser	https://davidmiranda.itch.io/bible-quiz-adventure
 
 📱 Android APK	https://drive.google.com/drive/folders/1cCemW7HTBfC2xpgbDTrmvBrgd2DKxlo3?usp=sharing
